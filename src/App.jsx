@@ -5,7 +5,6 @@ import { Button } from "./components/ui/button";
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "./components/ui/tabs";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { motion } from "framer-motion";
-import Link from "next/link";
 import GlossaryTooltip from "./components/ui/glossary-tooltip";
 
 const conversionLiftData = [
